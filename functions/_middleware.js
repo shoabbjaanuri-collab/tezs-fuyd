@@ -1,4 +1,3 @@
-functions/_middleware.js
 
 export async function onRequest(context) {
   const request = context.request;
